@@ -32,6 +32,6 @@ Business Transfers and Affiliates: In the event that Spot-a-bot for Instagram is
 Non-Private or Non-Personal Information: We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, the people you share your information with, or the number of users who clicked on a particular link (even if only one did), or reports to advertisers about unique users who saw or clicked on their ads after we have removed any private personal information (such as your name or contact information).
 
 Changes to this Policy
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://www.grabapp.co/legal/privacypolicy.html. If we make a change to this policy that, in our sole discretion, is material, we will update aycrazy at https://aycrazy.github.io/spot-a-bot/. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://aycrazy.github.io/spot-a-bot/. If we make a change to this policy that, in our sole discretion, is material, we will update aycrazy at https://aycrazy.github.io/spot-a-bot/. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
 Effective: 1st January 2017
