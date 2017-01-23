@@ -1,7 +1,8 @@
 # CS 122 Group Project
 #
-# Ratul, Andrew, Juan
-# spot-a-bot
+Ratul, Andrew, Juan
+#
+spot-a-bot
 #
 Privacy Policy can be viewed below:
 Spot-a-bot for Instagram’s Privacy Policy
