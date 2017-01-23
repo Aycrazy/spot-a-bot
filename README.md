@@ -7,7 +7,7 @@ spot-a-bot
 Privacy Policy can be viewed below:
 Spot-a-bot for Instagram’s Privacy Policy
 
-Spot-a-bot for Instagram (formerly Instagrab) is a web app providing registered users of Instagram to find out if anothe instagram user is a bot.
+Spot-a-bot for Instagram is a web app providing registered users of Instagram to find out if anothe instagram user is a bot.
 
 This Privacy Policy describes how and when Spot-a-bot for Instagram collects, uses and shares your information when you use our Services. Spot-a-bot for Instagram receives your information through our APIs, applications and from our partners and other third parties. For example, you send us information when you use Grab for Instagram app, or access Instagram from an application such as Spot-a-bot for Instagram Apps for iOS, or Android. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Grab for Instagram to use your information in Hong Kong and any other country where Grab for Instagram operates.
 
